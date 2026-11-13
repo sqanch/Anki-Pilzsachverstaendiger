@@ -1,2 +1,2 @@
-# Anki-Pilzsachverstaendiger
-Ein Anki Deck für die Fragen zur Prüfung zum Pilzsachverständigen
+# Anki-Pilzsachverständiger
+Fragen und Antworten zur Prüfung zum Pilzsachverständigen basierend auf https://www.pilzfreun.de/2024/10/psv-pruefungs-fragen/
